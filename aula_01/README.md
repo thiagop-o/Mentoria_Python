@@ -45,3 +45,16 @@ Configurar o Code Runner:
 Minhas Extensões:
 * Dracula Official
 * Material Icon Theme
+
+Setting.json completo:
+```json
+{
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "explorer.compactFolders": false,
+    "code-runner.executorMap": {
+        "python": "clear ; python -u",
+    },  
+    "code-runner.runInTerminal": true,
+    "code-runner.ignoreSelection": true,
+    "python.defaultInterpreterPath": "python"
+}
