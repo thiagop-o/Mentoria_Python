@@ -6,4 +6,6 @@ Repositório para Fornecer a parte escrita da mentoria gravada de Python
 
 <a href="https://github.com/thiagop-o/Mentoria_Python/tree/main/aula_02">aula_02 - PEP8 e tipos de Variaveis/Dadps</a>
 
-<a href="https://github.com/thiagop-o/Mentoria_Python/tree/main/aula_03">Operadores Matematicos, Logicos e </a>
+<a href="https://github.com/thiagop-o/Mentoria_Python/tree/main/aula_03">Operadores Matematicos e Logicos</a>
+
+<a href="https://github.com/thiagop-o/Mentoria_Python/tree/main/aula_04">Estruturas condicionais e de Repeticao</a>
