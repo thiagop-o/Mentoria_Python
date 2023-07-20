@@ -8,4 +8,4 @@ Repositório para Fornecer a parte escrita da mentoria gravada de Python
 
 <a href="https://github.com/thiagop-o/Mentoria_Python/tree/main/aula_03">Operadores Matematicos e Logicos</a>
 
-<a href="https://github.com/thiagop-o/Mentoria_Python/tree/main/aula_04">Estruturas condicionais e de Repeticao</a>
+<a href="https://github.com/thiagop-o/Mentoria_Python/tree/main/aula_04">Estruturas condicionais</a>
